@@ -7,5 +7,3 @@ A simple monitoring app built in Python that communicates with the embedded boar
 ## Sequence Diagram
 ![](Resources/Sequence_FinalProject.png)
 
-## Demo Video
-![](Resources/Video_Demonstration)
